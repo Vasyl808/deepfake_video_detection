@@ -1,1 +1,2 @@
-https://drive.google.com/file/d/1feX_BSLiR-2WE11eeWUQYM-TaZ6vctSL/view?usp=sharing
+uadfv best model: https://drive.google.com/file/d/1feX_BSLiR-2WE11eeWUQYM-TaZ6vctSL/view?usp=sharing
+fakeavceleb b0 + lstm + no croped best model (cnn_lstm_fakeavceleb_done.ipynb): https://drive.google.com/file/d/1-8-C2rVVFiCCtlVZp1auMeo4CkWW3Wk2/view?usp=sharing 
