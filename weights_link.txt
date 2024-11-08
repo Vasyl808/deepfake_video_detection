@@ -1,3 +1,5 @@
 uadfv best model: https://drive.google.com/file/d/1feX_BSLiR-2WE11eeWUQYM-TaZ6vctSL/view?usp=sharing
 fakeavceleb b0 + lstm + no croped best model (cnn_lstm_fakeavceleb_done.ipynb): https://drive.google.com/file/d/1-8-C2rVVFiCCtlVZp1auMeo4CkWW3Wk2/view?usp=sharing 
 dfdc (dfdc_cnn_lstm_balanced_ready.ipynb): https://drive.google.com/file/d/1-cbAR0nDjyz90KmaBIOytOJTy32-t_Tu/view?usp=sharing
+fakeavceleb (test uadfv) fakeavceleb_balanced_ready.ipynb: https://drive.google.com/file/d/1-XCltr0Yme5EbQ0G_wPuMn96vkjevSdX/view?usp=sharing
+fakeavceleb (test train split) fakeavceleb(train_test_split)_balanced_ready.ipynb: https://drive.google.com/file/d/1-KkcLjVbSM3Jx1MXsEiLniW2qOOn-gdi/view?usp=sharing
