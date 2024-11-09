@@ -1,0 +1,4 @@
+dfdc(train_test_split)_balanced_lstm_cnn.ipynb: https://drive.google.com/file/d/1-NCrlzAUH148Fq8nXXAQ87qsg_iNf8Kd/view?usp=sharing
+dfdc_test_uadfv_balanced_cnn_lstm.ipynb: https://drive.google.com/file/d/1-4p2NF-RDX372tzd1pYNq-UdK6L0j_cU/view?usp=sharing
+fakeavceleb(train_test_split)_balanced_ready.ipynb: https://drive.google.com/drive/folders/1reA6stKd4josMj0t_g4bDHAjHm2PmHmz?usp=sharing
+fakeavceleb_test_uadfv_balanced_cnn_lstm.ipynb: https://drive.google.com/drive/folders/1Ke3AprljyYfiwvBWenIu8YyeIGK9TOEe?usp=sharing
